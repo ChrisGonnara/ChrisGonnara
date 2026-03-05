@@ -26,8 +26,22 @@
 
 ### 📊 Estatísticas
 
-![Resumo de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisGonnara&layout=compact&langs_count=7&theme=dracula)
+<div align="center">
+  <h2>📊 Meus Stats do GitHub</h2>
 
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=ChrisGonnara&show_icons=true&theme=dracula&count_private=true)
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisGonnara&layout=compact&theme=dark&locale=pt-br" alt="Linguagens mais usadas" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ChrisGonnara&show_icons=true&theme=dark&locale=pt-br" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+  <img src="https://raw.githubusercontent.com/ChrisGonnara/ChrisGonnara/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ---
